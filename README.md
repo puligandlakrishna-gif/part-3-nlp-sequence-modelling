@@ -5,7 +5,7 @@ This project builds a sentiment classification pipeline for customer support mes
 
 ## Dataset
 - Source file: `customer_support_text_classification.csv`
-- Data source: [Google Drive folder](https://github.com/puligandlakrishna-gif/Data-set-part_3_nlp_sequence_modeling.git)
+- Data source:(https://github.com/puligandlakrishna-gif/Data-set-part_3_nlp_sequence_modeling.git)
 - Main columns:
   - `customer_message` — the raw text of a customer support message
   - `sentiment_label` — the target sentiment label
